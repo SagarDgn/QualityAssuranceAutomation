@@ -1,0 +1,16 @@
+{
+    "validContact":{
+        "firstName": "Sagar",
+        "lastName": "Dhungana",
+        "dateOfBirth": "2020-20-20",
+        "email": "sagar@123.com",
+        "phone": "9800000000",
+        "streetAdd1": "Balaju Height",
+        "streetAdd2": "",
+        "city": "Kathmanndu",
+        "province": "Bagmati",
+        "postal" : "0122",
+        "country": "Nepal"
+    
+    }
+}
